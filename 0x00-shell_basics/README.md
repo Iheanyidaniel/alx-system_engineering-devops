@@ -1,1 +1,1 @@
-My file type task
+My symbols task
