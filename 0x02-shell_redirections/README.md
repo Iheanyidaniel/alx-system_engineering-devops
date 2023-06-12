@@ -1,1 +1,1 @@
-My what's new task
+My hate bin task
