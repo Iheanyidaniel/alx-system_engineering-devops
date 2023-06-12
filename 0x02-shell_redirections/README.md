@@ -1,1 +1,1 @@
-My hate bin task
+My letters only task
