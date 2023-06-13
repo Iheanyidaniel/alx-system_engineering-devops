@@ -1,1 +1,1 @@
-My divide and rule task
+My exponential task
