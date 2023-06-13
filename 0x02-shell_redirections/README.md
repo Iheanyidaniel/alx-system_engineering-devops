@@ -1,1 +1,1 @@
-My .gif task
+My acrostic task
