@@ -1,1 +1,1 @@
-My create locat variable task
+My create global variable task
